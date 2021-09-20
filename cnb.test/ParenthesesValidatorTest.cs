@@ -16,7 +16,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeTrue();
         }
         
@@ -30,7 +30,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeTrue();
         }
         
@@ -44,7 +44,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeTrue();
         }
         
@@ -60,7 +60,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeTrue();
         }
         
@@ -76,7 +76,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeFalse();
         }
         
@@ -90,7 +90,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeFalse();
         }
         
@@ -106,7 +106,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeFalse();
         }
         
@@ -120,7 +120,7 @@ namespace cnb.test
             //  Act
             var action  = new Func<bool>(() => paran.Validate(curly));
             
-            //  Arrange
+            //  Assert
             action.Should().Throw<Exception>();
         }
         
@@ -134,7 +134,7 @@ namespace cnb.test
             //  Act
             var action  = new Func<bool>(() => paran.Validate(curly));
             
-            //  Arrange
+            //  Assert
             action.Should().Throw<Exception>();
         }
         
@@ -148,7 +148,7 @@ namespace cnb.test
             //  Act
             var result = paran.Validate(curly);
             
-            //  Arrange
+            //  Assert
             result.Should().BeFalse();
         }
         
