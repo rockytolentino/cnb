@@ -1,0 +1,212 @@
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.deps.json
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.runtimeconfig.json
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.runtimeconfig.dev.json
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ref/cnb.test.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.pdb
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/testhost.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.abstractions.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.assert.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.core.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.AssemblyReference.cache
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.AssemblyInfoInputs.cache
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.AssemblyInfo.cs
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.CoreCompileInputs.cache
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.CopyComplete
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.dll
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/ref/cnb.test.dll
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.pdb
+/Volumes/xmac/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.genruntimeconfig.cache
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/FluentAssertions.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.dll
+/Volumes/xmac/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.pdb
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.deps.json
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.runtimeconfig.json
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.runtimeconfig.dev.json
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ref/cnb.test.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.test.pdb
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/FluentAssertions.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/testhost.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/NuGet.Frameworks.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.abstractions.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.assert.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.core.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/bin/Debug/net5.0/cnb.pdb
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.AssemblyReference.cache
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.AssemblyInfoInputs.cache
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.AssemblyInfo.cs
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.CoreCompileInputs.cache
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.csproj.CopyComplete
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/ref/cnb.test.dll
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.pdb
+/Volumes/Working Files/Tests/cnb/cnb.test/obj/Debug/net5.0/cnb.test.genruntimeconfig.cache

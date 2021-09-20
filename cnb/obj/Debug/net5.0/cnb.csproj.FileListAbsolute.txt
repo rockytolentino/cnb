@@ -1,0 +1,24 @@
+/Volumes/xmac/Tests/cnb/cnb/bin/Debug/net5.0/cnb.deps.json
+/Volumes/xmac/Tests/cnb/cnb/bin/Debug/net5.0/cnb.dll
+/Volumes/xmac/Tests/cnb/cnb/bin/Debug/net5.0/ref/cnb.dll
+/Volumes/xmac/Tests/cnb/cnb/bin/Debug/net5.0/cnb.pdb
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.csproj.AssemblyReference.cache
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.AssemblyInfoInputs.cache
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.AssemblyInfo.cs
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.csproj.CoreCompileInputs.cache
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.dll
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/ref/cnb.dll
+/Volumes/xmac/Tests/cnb/cnb/obj/Debug/net5.0/cnb.pdb
+/Volumes/Working Files/Tests/cnb/cnb/bin/Debug/net5.0/cnb.deps.json
+/Volumes/Working Files/Tests/cnb/cnb/bin/Debug/net5.0/cnb.dll
+/Volumes/Working Files/Tests/cnb/cnb/bin/Debug/net5.0/ref/cnb.dll
+/Volumes/Working Files/Tests/cnb/cnb/bin/Debug/net5.0/cnb.pdb
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.csproj.AssemblyReference.cache
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.AssemblyInfoInputs.cache
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.AssemblyInfo.cs
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.csproj.CoreCompileInputs.cache
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.dll
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/ref/cnb.dll
+/Volumes/Working Files/Tests/cnb/cnb/obj/Debug/net5.0/cnb.pdb
