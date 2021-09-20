@@ -13,9 +13,6 @@
         "packagesPath": "/Users/rockytolentino/.nuget/packages/",
         "outputPath": "/Volumes/Working Files/Tests/cnb/cnb/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/Users/rockytolentino/.nuget/NuGet/NuGet.Config"
         ],
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.5.21302.13/RuntimeIdentifierGraph.json"
         }
       }
     }

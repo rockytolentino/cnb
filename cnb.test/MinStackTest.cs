@@ -96,7 +96,7 @@ namespace cnb.test
             var min = new MinStack();
 
             //  Act
-            Action action = () => min.Top();
+            Action action = () => min.Pop();
             
             //  Assert
             action.Should().Throw<Exception>();
